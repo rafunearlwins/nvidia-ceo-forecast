@@ -13,7 +13,7 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 ANCHORS = [1, 2, 3, 5, 8, 12, 18, 25, 35, 50, 70, 100, 140, 180, 240]
 WINDOW = 2880
-SKIP = 360
+SKIP = 60
 SHRINK = 0.6
 
 
